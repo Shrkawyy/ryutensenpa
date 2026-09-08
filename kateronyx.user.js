@@ -17,15 +17,15 @@
 // @connect      unpkg.com
 // @connect      cdn.rawgit.com
 // @connect      *
-// @updateURL    https://onyx-og.vercel.app/kateronyx.user.js
-// @downloadURL  https://onyx-og.vercel.app/kateronyx.user.js
+// @updateURL    https://ryutensenpa.vercel.app/kateronyx.user.js
+// @downloadURL  https://ryutensenpa.vercel.app/kateronyx.user.js
 // @noframes
 // ==/UserScript==
 
 (function () {
   'use strict';
 
-  var DEFAULT_BASE_URL = 'https://onyx-og.vercel.app/';
+  var DEFAULT_BASE_URL = 'https://ryutensenpa.vercel.app/';
   var CLIENT_FILE = 'index.html';
   var VERSION = '2.0.5';
   var MOUNT_KEY = 'kateronyx:mounting';
